@@ -3,6 +3,7 @@
 Simple Paddle Game reproduction in C using SDL
 <br>
 # Executable
+<br>
 - Linux ✅
 <br>
 - Windows ❌(Coming Soon...)
