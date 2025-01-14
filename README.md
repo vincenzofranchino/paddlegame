@@ -1,3 +1,3 @@
 # paddlegame
 <br>
-simple paddlegame reproduction in C using SDL
+Simple Paddle Game reproduction in C using SDL
