@@ -2,7 +2,7 @@
 <br>
 Simple Paddle Game reproduction in C using SDL
 <br>
-# Executable
+<title>Executable</title>
 <br>
 - Linux ✅
 <br>
